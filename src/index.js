@@ -1,10 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-<<<<<<< HEAD
-import 'bootstrap/dist/css/bootstrap.min.css';
-=======
 import './index.css';
->>>>>>> ffba2d5... Initialize project using Create React App
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
