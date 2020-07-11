@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/bst.iml" filepath="$PROJECT_DIR$/.idea/bst.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/kanbanreload.iml" filepath="$PROJECT_DIR$/.idea/kanbanreload.iml" />
+>>>>>>> ffba2d5... Initialize project using Create React App
     </modules>
   </component>
 </project>
